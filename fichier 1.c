@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Salut petit !\n");
+    printf("Salut  !\n");
     printf("Coment allez-vous ?\n");
     printf("Je sais que vous etes ingénieur des données pas possible, merci. \n");
 
