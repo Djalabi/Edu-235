@@ -2,9 +2,9 @@
 
 int main()
 {
-    printf("Salut petit !\n");
+    printf("Salut maman!\n");
     printf("Coment allez-vous ?\n");
-    printf("Je sais que vous etes ingénieur des données pas possible, merci. \n");
-
+    printf("Merci maman merci. \n");
+printf("Merci!. \n");
     return 0;
 }
