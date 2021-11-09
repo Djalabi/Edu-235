@@ -7,5 +7,6 @@ int main()
     scanf("%d %d",&a,&b);
     printf("Juste une second pour le résultat de la somme de te deux entiers\n");
     printf("\n %d + %d = %d",a,b,(a+b));
+    print("voici notre histoire les gars, on a gagné");
     return 0;
 }
